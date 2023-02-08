@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AluraTunes", "AluraTunes\AluraTunes.csproj", "{057A0F45-58C8-4406-80F5-3F5BDF68763C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{057A0F45-58C8-4406-80F5-3F5BDF68763C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{057A0F45-58C8-4406-80F5-3F5BDF68763C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{057A0F45-58C8-4406-80F5-3F5BDF68763C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{057A0F45-58C8-4406-80F5-3F5BDF68763C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9862F0B-97A5-45D7-AC1D-6DD7D4408035}
+	EndGlobalSection
+EndGlobal

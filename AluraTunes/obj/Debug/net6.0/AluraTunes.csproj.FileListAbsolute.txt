@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\#BackEnd\CSharp\AluraTunes\AluraTunes\bin\Debug\net6.0\AluraTunes.exe
+C:\Users\gusta\OneDrive\#BackEnd\CSharp\AluraTunes\AluraTunes\bin\Debug\net6.0\AluraTunes.deps.json
+C:\Users\gusta\OneDrive\#BackEnd\CSharp\AluraTunes\AluraTunes\bin\Debug\net6.0\AluraTunes.runtimeconfig.json
+C:\Users\gusta\OneDrive\#BackEnd\CSharp\AluraTunes\AluraTunes\bin\Debug\net6.0\AluraTunes.dll
+C:\Users\gusta\OneDrive\#BackEnd\CSharp\AluraTunes\AluraTunes\bin\Debug\net6.0\AluraTunes.pdb
+C:\Users\gusta\OneDrive\#BackEnd\CSharp\AluraTunes\AluraTunes\obj\Debug\net6.0\AluraTunes.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\#BackEnd\CSharp\AluraTunes\AluraTunes\obj\Debug\net6.0\AluraTunes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\#BackEnd\CSharp\AluraTunes\AluraTunes\obj\Debug\net6.0\AluraTunes.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\#BackEnd\CSharp\AluraTunes\AluraTunes\obj\Debug\net6.0\AluraTunes.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\#BackEnd\CSharp\AluraTunes\AluraTunes\obj\Debug\net6.0\AluraTunes.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\#BackEnd\CSharp\AluraTunes\AluraTunes\obj\Debug\net6.0\AluraTunes.dll
+C:\Users\gusta\OneDrive\#BackEnd\CSharp\AluraTunes\AluraTunes\obj\Debug\net6.0\refint\AluraTunes.dll
+C:\Users\gusta\OneDrive\#BackEnd\CSharp\AluraTunes\AluraTunes\obj\Debug\net6.0\AluraTunes.pdb
+C:\Users\gusta\OneDrive\#BackEnd\CSharp\AluraTunes\AluraTunes\obj\Debug\net6.0\AluraTunes.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\#BackEnd\CSharp\AluraTunes\AluraTunes\obj\Debug\net6.0\ref\AluraTunes.dll

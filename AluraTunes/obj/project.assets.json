@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gusta\\.nuget\\packages\\": {}
+    "C:\\Users\\gustavo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gusta\\OneDrive\\#BackEnd\\CSharp\\AluraTunes\\AluraTunes\\AluraTunes.csproj",
+      "projectUniqueName": "C:\\Users\\gustavo\\Documents\\GitHub\\AluraTunes\\AluraTunes\\AluraTunes.csproj",
       "projectName": "AluraTunes",
-      "projectPath": "C:\\Users\\gusta\\OneDrive\\#BackEnd\\CSharp\\AluraTunes\\AluraTunes\\AluraTunes.csproj",
-      "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gusta\\OneDrive\\#BackEnd\\CSharp\\AluraTunes\\AluraTunes\\obj\\",
+      "projectPath": "C:\\Users\\gustavo\\Documents\\GitHub\\AluraTunes\\AluraTunes\\AluraTunes.csproj",
+      "packagesPath": "C:\\Users\\gustavo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gustavo\\Documents\\GitHub\\AluraTunes\\AluraTunes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
